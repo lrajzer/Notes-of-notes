@@ -1,0 +1,6 @@
+- [ ] Czasowniki modalne
+- [ ] Czas zegarowy
+- [ ] Okreslenia czasu (poniedzialek; rano; popoludniami)
+- [ ] Zdania podrzednie zlozone
+- [ ] Zdania przeszłe haben sein (byłem, miałem), 
+- [ ] Zdania z mit dem,,,

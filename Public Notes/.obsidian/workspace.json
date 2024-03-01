@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0c0b2ca77cf09f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e986c4e892de436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67eea2808d1d1b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c4f41a6b847bbcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4479b31f40980efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb2bb5bd9ad8eee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f3bd1ce461ab97d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f0744d4d34c017e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a8975605f3760f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d67f57f060e14f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d067ec8e2a9092f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d14114e0c81afe0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "212f0f1eeda36e0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "710da6b040f190d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Programming.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "67eea2808d1d1b67",
+  "lastOpenFiles": [
+    "Electronics/Electronics.md",
+    "Programming/Programming.md",
+    "Notes navigation.md",
+    "Studies/Sem3/Statistical methods/Statistical methods.md",
+    "Studies/Studies.md",
+    "Electronics",
+    "Programming",
+    "Studies/Sem3/German/German.md",
+    "Studies/Sem3/DMaML/DMaML.md",
+    "Studies/Sem3/DCT/DCT Labs.md",
+    "9 and 10.md",
+    "Studies/Sem3/Statistical methods/1.2 Conditional Probability, Independence and BernoulliTrials/Conditional Probability, Independence and BernoulliTrials/EXAMPLE six-sided die.md",
+    "Studies/Sem3/Statistical methods/1.2 Conditional Probability, Independence and BernoulliTrials/Conditional Probability, Independence and BernoulliTrials/Conditional Probability and Independence.md",
+    "Studies/Sem3/Statistical methods/1.2 Conditional Probability, Independence and BernoulliTrials/Bernoulli Trials/Bernoulli Trials.md",
+    "Studies/Sem3/Statistical methods/1.4 Random Variable and Probability Distribution/Student's probability.png",
+    "Studies/Sem3/Statistical methods/1.4 Random Variable and Probability Distribution/F_snedcor.png",
+    "Studies/Sem3/Statistical methods/1.4 Random Variable and Probability Distribution/Exponential.png",
+    "Studies/Sem3/Statistical methods/1.5 Two or more  random variables/1.5 Two or more  random variables.md",
+    "Studies/Sem3/Statistical methods/1.4 Random Variable and Probability Distribution/ChiSquare plot.png",
+    "Studies/Sem3/Statistical methods/1.2 Conditional Probability, Independence and BernoulliTrials/Conditional Probability, Independence and BernoulliTrials",
+    "Studies/Sem3/Statistical methods/1.4 Random Variable and Probability Distribution/1.4 Random Variable and Probability Distribution.md",
+    "Studies/Sem3/Statistical methods/Exercises/12 6 2023.md",
+    "Studies/Sem3/Statistical methods/1.2 Conditional Probability, Independence and BernoulliTrials/Bernoulli Trials",
+    "Studies/Sem3/Statistical methods/1.3 Theorem of Total Probability, Bayes Theoremand Applications/Sickness example.md",
+    "Studies/Sem3/Statistical methods/1.3 Theorem of Total Probability, Bayes Theoremand Applications/The 3 boxes example.md",
+    "Studies/Sem3/Statistical methods/1.2 Conditional Probability, Independence and BernoulliTrials/1.2 Conditional Probability, Independence and Bernoulli Trials.md",
+    "Studies/Sem3/Statistical methods/1.3 Theorem of Total Probability, Bayes Theoremand Applications/1.3 Theorem of Total Probability, Bayes Theorem and Applications.md",
+    "Studies/Sem3/Statistical methods/Exercises.md",
+    "Studies/Sem3/Statistical methods/1.5 Two or more  random variables",
+    "Studies/Sem3/Statistical methods/1.4 Random Variable and Probability Distribution",
+    "Studies/Sem3/Statistical methods/Exercises",
+    "Studies/Sem3/Statistical methods/1.2 Conditional Probability, Independence and BernoulliTrials",
+    "Studies/Sem3/Statistical methods/1.3 Theorem of Total Probability, Bayes Theoremand Applications",
+    "Studies/Sem3/Statistical methods/1.1 Probability Space.md",
+    "Studies/Sem3/Statistical methods",
+    "Studies/Sem3/German/Lessons/Lessons.md",
+    "Studies/Sem3/German/Lessons/15 12 2023.md",
+    "Studies/Sem3/German/Homework/Sentences.md",
+    "Studies/Sem3/German/Homework/German homework My day essay.md",
+    "Studies/Sem3/German/Word bank.md",
+    "Studies/Sem3/DCT/Labs/Lab 6/Serial adder.png",
+    "Studies/Sem3/DCT/Labs/Lab 6/Serial adder 1.png",
+    "Studies/Sem3/DCT/Labs/Lab 6/MSB First comp imp.png",
+    "Studies/Sem3/DCT/Labs/Lab 6/MSB First comp 2.png",
+    "Studies/Sem3/DCT/Labs/Lab 6/MSB First comp 1.png",
+    "Studies/Sem3/DCT/Labs/Lab 6/LSB First comp imp.png",
+    "Untitled.canvas"
+  ]
+}
